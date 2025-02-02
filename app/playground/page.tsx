@@ -139,7 +139,7 @@ export default function Playground() {
           <ul className="list-disc list-inside space-y-2 text-gray-600">
             <li>Use <code className="bg-gray-100 px-1 rounded">print()</code> to show text in the output</li>
             <li>Try simple math operations like <code className="bg-gray-100 px-1 rounded">2 + 2</code></li>
-            <li>Create variables using <code className="bg-gray-100 px-1 rounded">name = "Your name"</code></li>
+            <li>Create variables using <code className="bg-gray-100 px-1 rounded">name = &quot;Your name&quot;</code></li>
             <li>Remember to indent your code properly in loops and conditions</li>
             <li>Try these examples:
               <pre className="bg-gray-100 p-2 mt-2 rounded">
